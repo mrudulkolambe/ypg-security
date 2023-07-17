@@ -56,7 +56,7 @@ const Login = () => {
 
 						<button onClick={handleUserSignin} type='button' className='w-5/12 login-btn px-3 py-2 text-white rounded-lg mt-6'>Sign In</button>
 						<div className='w-5/12 flex justify-between items-center'>
-							<p className='mt-6 text-gray-500'>Copyright © 2021 ConnectX Security</p>
+							<p className='mt-6 text-gray-500'>Copyright © 2021 YPG Security</p>
 							<a href='mailto:info@connectiasolution.com' className='underline mt-6 text-gray-500'>Support</a>
 						</div>
 					</form>
